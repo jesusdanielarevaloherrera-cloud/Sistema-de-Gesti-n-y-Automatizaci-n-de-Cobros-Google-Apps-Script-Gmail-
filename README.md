@@ -19,7 +19,7 @@ Un flujo automatizado en la nube que:
 
 ## 📸 Vista Previa
 ![Plantilla de Google Sheets](assetsdashboard_sheet.jpeg)
-![Correo Automatizado](assets/assetsemail_preview.jpeg)
+![Correo Automatizado](assetsemail_preview.jpeg)
 
 ## ⚙️ Instalación y Configuración
 1. Clona o copia los datos de `templates/plantilla_datos.csv` en una hoja de Google Sheets llamada `Cobros`.
