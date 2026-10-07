@@ -18,8 +18,8 @@ Un flujo automatizado en la nube que:
 - **HTML & CSS Inline** (Plantilla de correo responsiva)
 
 ## 📸 Vista Previa
-![Plantilla de Google Sheets](assets/dashboard_sheet.jpeg)
-![Correo Automatizado](assets/email_preview.jpeg)
+![Plantilla de Google Sheets](assetsdashboard_sheet.jpeg)
+![Correo Automatizado](assets/assetsemail_preview.jpeg)
 
 ## ⚙️ Instalación y Configuración
 1. Clona o copia los datos de `templates/plantilla_datos.csv` en una hoja de Google Sheets llamada `Cobros`.
